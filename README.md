@@ -14,7 +14,6 @@ This repository contains the Jupyter notebooks, dataset files, chart images, and
 - The category comparison showed that Shruti Reddy’s territory outperformed Erbayne Middleton’s territory across all major product categories.
 - Store-level analysis identified a small group of top-performing stores that contributed strongly to territory revenue.
 - Rewards customer analysis highlighted high-value customers in each territory who could be targeted through loyalty and retention marketing.
-- Based on the analysis, the strongest opportunity for next-quarter marketing focus is in Erbayne Middleton’s territory, especially in the high-revenue categories of Technology & Accessories and Textbooks.
 ## Recommendation
 
 Based on the analysis, the strongest opportunity for next-quarter marketing focus is in Erbayne Middleton’s territory. Shruti Reddy’s territory consistently outperformed it in monthly revenue and category performance, so it can serve as a benchmark for stronger results.
