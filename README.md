@@ -4,7 +4,8 @@ This project analyzes EmporiUm sales data using Python. The goal is to read, cle
 
 This comparison focuses on two Northeast territories. Shruti Reddy manages the Maryland territory, and Erbayne Middleton manages the Maine territory.
 
-This repository contains the Jupyter Notebook, dataset files, and project materials for the capstone.
+This repository contains the Jupyter notebooks, dataset files, chart images, and project materials for the capstone.
+
 
 ## Key Findings
 
@@ -14,3 +15,18 @@ This repository contains the Jupyter Notebook, dataset files, and project materi
 - Store-level analysis identified a small group of top-performing stores that contributed strongly to territory revenue.
 - Rewards customer analysis highlighted high-value customers in each territory who could be targeted through loyalty and retention marketing.
 - Based on the analysis, the strongest opportunity for next-quarter marketing focus is in Erbayne Middleton’s territory, especially in the high-revenue categories of Technology & Accessories and Textbooks.
+## Recommendation
+
+Based on the analysis, the strongest opportunity for next-quarter marketing focus is in Erbayne Middleton’s territory. Shruti Reddy’s territory consistently outperformed it in monthly revenue and category performance, so it can serve as a benchmark for stronger results.
+
+Marketing efforts should focus especially on the high-revenue categories of Technology & Accessories and Textbooks, since these categories generated the most revenue in both territories. Targeted promotions, category-focused campaigns, and loyalty outreach to high-value rewards customers could help strengthen sales performance in the Maine territory.
+
+
+## Video Recording
+
+Video link: 
+
+
+## Bonus Analysis
+
+A separate bonus notebook is included with additional appendix questions covering filtering, aggregation, grouping, and trend analysis.
