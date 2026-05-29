@@ -1,16 +1,18 @@
 # Capstone 2: Business Analysis with Python
+Analyst: Mina Saeday
+ Date period 2022-2025
 
-This project analyzes EmporiUm sales data using Python. The goal is to read, clean, merge, and analyze the provided business datasets to compare sales territory performance and identify useful marketing insights.
+This project analyzes EmporiUm sales data using Python to compare territory performance and identify actionable marketing opportunities. The analysis focuses on cleaning, merging, and interpreting multiple business datasets to explain where revenue is strongest, what is driving the performance gap, and where next-quarter marketing attention should be focused.
 
-This comparison focuses on two Northeast territories. Shruti Reddy manages the Maryland territory, and Erbayne Middleton manages the Maine territory.
+The comparison centers on two Northeast territories: Shruti Reddy’s Maryland territory and Erbayne Middleton’s Maine territory.
 
-This repository contains the Jupyter notebooks, dataset files, chart images, and project materials for the capstone.
+This repository contains the main Jupyter notebook, the bonus notebook, source datasets, exported chart images, and presentation materials for the capstone.
 
 
 ## Key Findings
 
 - Shruti Reddy’s territory consistently generated higher monthly revenue than Erbayne Middleton’s territory across the full time period in the dataset.
-- Technology & Accessories was the strongest revenue-producing category in both territories, followed by Textbooks.
+- Technology & Accessories was the strongest revenue-producing category in both territories, followed by Textbooks, showing that the two territories are driven by the same core revenue categories.
 - The category comparison showed that Shruti Reddy’s territory outperformed Erbayne Middleton’s territory across all major product categories.
 - Store-level analysis identified a small group of top-performing stores that contributed strongly to territory revenue.
 - Rewards customer analysis highlighted high-value customers in each territory who could be targeted through loyalty and retention marketing.
