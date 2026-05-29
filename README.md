@@ -23,7 +23,7 @@ Marketing efforts should focus especially on the high-revenue categories of Tech
 
 ## Video Recording
 
-Video link: 
+Video link: https://drive.google.com/file/d/1U_9biBrSVn7WrIGwHoo-D2g9YSpVcSB6/view?usp=drive_link
 
 
 ## Bonus Analysis
